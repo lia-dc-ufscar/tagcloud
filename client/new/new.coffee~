@@ -1,0 +1,6 @@
+Template.new.events =
+	"click a[name=post]": ->
+		description = $('input[name=tag]').val()
+		Tags.insert {description: description, date: new Date, count: 0}
+		window.location.href = "/"
+

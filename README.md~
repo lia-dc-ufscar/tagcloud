@@ -7,21 +7,4 @@ The screen shows a tag cloud while the mobile version can increase counts quickl
 
 Intall nodejs, MongoDB and Meteor
 
-from the project directory run:
-
-meteor install
-meteor add bootstrap
-meteor add coffeescript
-meteor add underscore
-meteor add backbone
-
-run the application with:
-
-meteor
-
-
-Mobile:
-localhost:3000
-
-Screen:
-localhost:3000/cloud
+from the 

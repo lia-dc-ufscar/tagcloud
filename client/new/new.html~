@@ -1,0 +1,13 @@
+<template name="new">
+	<br />
+	<form class="form">
+		<h2 class="form-heading">Criar nova tag</h2>
+		<br />
+		<input type="text" name="tag" class="input-block-level" placeholder="tag" />
+		<br />
+		<br />
+		<a name="post" class="btn btn-large btn-inverse btn-block">Criar</a>
+		<br />
+		<a href="home" name="back" class="btn btn-large btn-default btn-block">Voltar</a>
+	</form>
+</template>
