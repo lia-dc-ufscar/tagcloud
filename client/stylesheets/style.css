@@ -1,5 +1,8 @@
 /* CSS declarations go here */
-.wordcloud {
+body {
+}
+
+#d3cloud {
     background: black;
     visibility: visible;
     display: block;

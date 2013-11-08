@@ -11,3 +11,4 @@ bootstrap
 backbone
 underscore
 coffeescript
+d3
